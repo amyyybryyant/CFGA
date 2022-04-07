@@ -1,0 +1,23 @@
+nav {
+background-color:rgba(254, 61, 2, 0.926);
+position: relative
+
+}
+body {
+color:darkgrey;
+font-family:Arial, Helvetica, sans-serif
+}
+
+h1{
+    color:rgb(255, 0, 166);
+  font-size: 115px;
+  font-kerning:initial
+
+}
+  h2 { color:rgb(255, 0, 166);
+    font-size: 40px;
+  }
+
+  #wrapper, img{
+    width:100%;
+    height: 100%;
